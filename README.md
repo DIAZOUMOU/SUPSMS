@@ -2,6 +2,6 @@ SUPSMS
 ======
 
 SUPINFO java part one project
-AH caaaaaaaaaa   BKJBJVJJ
+AH caaaaaaaaaa
 
 bzbbbbazbdkhabufbhaz
